@@ -94,10 +94,12 @@ While platforms like Shoplive or Restream focus purely on video distribution, So
 #### 📅 Module 2: Core Scheduling (Smart Calendar)
 - **Conflict Resolution Engine:** 1-click booking that locks Host + Mod + Room + Gear.
 - **Multidimensional Timeline:** Filter by Brand, Host, or Studio to spot "dead hours".
+- **Agentic RAG Scheduling:** AI suggests the optimal Host and time slot based on historical sales data (e.g., Host A converts 3x better on Sunscreen than Cleansers; 8PM is peak time for Beauty SKUs).
 
 #### 📜 Module 3: Run of Show (ROS) & AI Scripting Hub
 - **Timeline Editor:** Drag-and-drop ROS blocks (Intro, Flash Sale, Minigame).
 - **Prompter View:** High-contrast, realtime synced teleprompter for the Host.
+- **Agentic RAG Scripting:** AI creates personalized scripts by automatically retrieving past successful selling points and context from the Vector DB for the specific Host-SKU combination.
 
 #### 🎛️ Module 4: Omni-Channel Operation (Flying Desk)
 - **Mod View:** Unified Inbox across platforms, macro replies, product/voucher pushing.
